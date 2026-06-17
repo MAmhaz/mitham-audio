@@ -1,1 +1,1 @@
-2.5.1|https://raw.githubusercontent.com/MAmhaz/mitham-audio/main/quran-dua.apk
+2.5.0|https://raw.githubusercontent.com/MAmhaz/mitham-audio/main/quran-dua.apk
